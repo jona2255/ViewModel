@@ -13,7 +13,7 @@ import static com.example.viewmodel.R.id.puntosA1;
 
 public class MainActivity extends AppCompatActivity {
 
-    
+
     TextView marcadorA, marcadorB;
 
     PuntuacionViewModel puntuaciónViewModel;
